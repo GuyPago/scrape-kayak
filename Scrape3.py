@@ -86,7 +86,7 @@ def scrape(scrape_date, arr_country, dep_country='TLV'):
                          '2]/form[1]/div[1]/div/div[1]/div/div[3]/div/div/div').click()
     time.sleep(0.1)
     choose_destination = browser.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div[1]/div[3]/input')
-    choose_destination.send_keys(3*Keys.BACKSPACE + arr_country + Keys.RETURN)
+    choose_destination.send_keys(3 * Keys.BACKSPACE + arr_country + Keys.RETURN)
     time.sleep(random())
     # choose and enter date (of the form dd.mm.yyyy)
     browser.find_element(By.XPATH,
@@ -118,7 +118,8 @@ def scrape(scrape_date, arr_country, dep_country='TLV'):
     # Scroll down and load more results
     for j in range(2):
         try:
-            browser.find_element(By.XPATH, '/html/body/div[1]/div[1]/main/div/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[1]/div/a').click()
+            browser.find_element(By.XPATH,
+                                 '/html/body/div[1]/div[1]/main/div/div[2]/div[2]/div/div[2]/div[1]/div[3]/div[1]/div/a').click()
             scroll_down()
             time.sleep(random() + 3)
         except Exception as e:
@@ -133,13 +134,12 @@ chromedriver_path = 'C:\\Users\\guypa\\Desktop\\Data\\Chromedriver.exe'
 
 # 'VAR', 'TBS', 'BUS', 'TIA','SKG', 'RHO','HEL', 'ZAG', 'LON', 'NYC', 'AUH', 'BOJ', 'DXB', 'IEV','LAX', 'PFO', 'LCA',
 # 'IST', 'BAK', 'ROM', 'ZRH', 'BOM', 'BKK', 'HKG', 'SHA', 'NRT', 'SFO', 'VIE', 'LIS', 'MEX', 'BEG', 'KRK', 'EZE', 'BOG',
-# 'RIO', 'MIA','MOW', 'JMK','YTO', 'MAL','PRG','LAS', 'MSQ', 'CAI', 'SAN', 'SIN', 'DEN', 'AMS', 'CPH','VCE','MLA',
-# 'DUB','BUD',
-destinations = ['SJO', 'LIR'
-                ]
+# 'RIO', 'MIA','MOW', 'JMK', 'YTO', 'MAL','PRG','LAS', 'MSQ', 'CAI', 'SAN', 'SIN', 'DEN', 'AMS', 'CPH','VCE','MLA',
+# 'LIR', 'DUB','BUD', 'SJO','ADD', 'CMN', 'AMM', 'KEF', 'SEZ', 'OTP','MAN','WAS','MLE', 'ORL','SJU','DAL','FRA','DCA',
+# 'JFK', 'AMM',CEZ, 'TGD'
+destinations = ['BER', 'EWR', 'PVG']
 dates = [str(i).zfill(2) + '.06.2021' for i in range(1, 31)]
-
-for destination in destinations[:]:
+for destination in destinations[:1]:
     # This will open a chrome window
     options = Options()
     ua = UserAgent()
@@ -154,6 +154,4 @@ for destination in destinations[:]:
     print('done with', destination)
     time.sleep(5)
 
-
 print('Closing chrome')
-
