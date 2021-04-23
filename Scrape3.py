@@ -18,7 +18,7 @@ import os
 def create_csv(data, dep_date, dep_country, arr_country):
     output_directory = './Output//' + dep_country + '-' + arr_country
     output_file = 'FlightData_' + dep_date[:6] + dep_date[8:] + '_' + dep_country + '-' + arr_country + '.csv'
-    os.makedirs(os.path.dirname(output_directory), exist_ok=True)
+    os.makedirs(os.path.dirname(output_directory + '//' + output_file), exist_ok=True)
     with open(output_directory + '//' + output_file, 'w', newline='', encoding='utf-8') as f:
         csv_writer = csv.writer(f)
         csv_writer.writerows(data)
@@ -67,7 +67,7 @@ def extract_data(data, dep_city, arr_country):
 
 def scrape(scrape_date, arr_country, dep_country='TLV'):
     browser.get("https://www.il.kayak.com/flights")
-    # browser.maximize_window()
+
     browser.implicitly_wait(6)
 
     search = browser.find_element(By.XPATH,
@@ -131,11 +131,15 @@ def scrape(scrape_date, arr_country, dep_country='TLV'):
 
 chromedriver_path = 'C:\\Users\\guypa\\Desktop\\Data\\Chromedriver.exe'
 
-# 'VAR', 'TBS', 'BUS', 'TIA','SKG', 'RHO','HEL', 'ZAG', 'LON', 'NYC', 'AUH', 'BOJ', 'DXB', 'IEV',
-destinations = ['TBS', 'PFO', 'LCA', 'IST', 'BAK']
+# 'VAR', 'TBS', 'BUS', 'TIA','SKG', 'RHO','HEL', 'ZAG', 'LON', 'NYC', 'AUH', 'BOJ', 'DXB', 'IEV','LAX', 'PFO', 'LCA',
+# 'IST', 'BAK', 'ROM', 'ZRH', 'BOM', 'BKK', 'HKG', 'SHA', 'NRT', 'SFO', 'VIE', 'LIS', 'MEX', 'BEG', 'KRK', 'EZE', 'BOG',
+# 'RIO', 'MIA','MOW', 'JMK','YTO', 'MAL','PRG','LAS', 'MSQ', 'CAI', 'SAN', 'SIN', 'DEN', 'AMS', 'CPH','VCE','MLA',
+# 'DUB','BUD',
+destinations = ['SJO', 'LIR'
+                ]
 dates = [str(i).zfill(2) + '.06.2021' for i in range(1, 31)]
 
-for destination in destinations[:1]:
+for destination in destinations[:]:
     # This will open a chrome window
     options = Options()
     ua = UserAgent()
@@ -145,6 +149,7 @@ for destination in destinations[:1]:
 
     for date in dates:
         scrape(date, destination)
+
     browser.quit()
     print('done with', destination)
     time.sleep(5)

@@ -1,16 +1,45 @@
-23.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,14h 25m,705
-23.06.2021,"Ryanair, Wizz Air",TLV,BAK,1 stop,15h 20m,727
-23.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,6h 40m,365
-23.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,8h 25m,695
-23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,6h 40m,695
-23.06.2021,"Turkish Airlines, Buta air",TLV,BAK,1 stop,7h 15m,800
-23.06.2021,"Turkish Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,7h 15m,824
-23.06.2021,Turkish Airlines,TLV,BAK,1 stop,6h 20m,850
-23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,8h 25m,910
-23.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 05m,929
-23.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,14h 25m,951
-23.06.2021,Turkish Airlines,TLV,BAK,1 stop,9h 45m,952
-23.06.2021,Turkish Airlines,TLV,BAK,1 stop,10h 10m,985
-23.06.2021,Belavia,TLV,BAK,1 stop,13h 00m,"1,004"
-23.06.2021,"Pegasus Airlines, Turkish Airlines",TLV,BAK,1 stop,10h 40m,"1,014"
-23.06.2021,Turkish Airlines,TLV,BAK,1 stop,13h 15m,"1,053"
+23.06.2021,"Ryanair, Wizz Air",TLV,BAK,1 stop,15h 20m,364
+23.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,15h 20m,693
+23.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,6h 40m,619
+23.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,6h 40m,693
+23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,8h 30m,756
+23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,8h 30m,756
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 25m,912
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 25m,912
+23.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,6h 40m,664
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,6h 40m,912
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 25m,912
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 25m,912
+23.06.2021,Belavia,TLV,BAK,1 stop,6h 20m,928
+23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,6h 20m,"1,158"
+23.06.2021,Emirates,TLV,BAK,1 stop,8h 05m,"1,185"
+23.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,8h 05m,762
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,14h 25m,912
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,14h 25m,912
+23.06.2021,Emirates,TLV,BAK,1 stop,9h 45m,"1,185"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,9h 45m,912
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,10h 10m,912
+23.06.2021,Emirates,TLV,BAK,1 stop,10h 10m,"1,185"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,13h 15m,977
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,13h 15m,"1,000"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,13h 00m,"1,000"
+23.06.2021,Multiple Airlines,TLV,BAK,1 stop,13h 00m,"1,019"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,7h 00m,"1,026"
+23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,7h 00m,"1,054"
+23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,8h 20m,"1,054"
+23.06.2021,Multiple Airlines,TLV,BAK,1 stop,8h 20m,"1,058"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,16h 50m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,16h 50m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 00m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 00m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 20m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 20m,"1,065"
+23.06.2021,Emirates,TLV,BAK,1 stop,11h 10m,"1,185"
+23.06.2021,Emirates,TLV,BAK,1 stop,11h 10m,"1,185"
+23.06.2021,Emirates,TLV,BAK,1 stop,17h 40m,"1,185"
+23.06.2021,"Ukraine International Airlines, Belavia",TLV,BAK,1 stop,17h 40m,"1,351"
+23.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,19h 20m,"1,396"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,19h 20m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 35m,"1,065"
+23.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 35m,"1,065"
+23.06.2021,"Ukraine International Airlines, Buta air",TLV,BAK,1 stop,13h 50m,"1,208"

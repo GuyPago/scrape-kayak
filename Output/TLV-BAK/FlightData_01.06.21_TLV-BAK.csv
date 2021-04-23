@@ -1,16 +1,46 @@
-01.06.2021,"Wizz Air, Ryanair",TLV,BAK,3 stops,39h 25m,382
-01.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,6h 40m,714
-01.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,8h 25m,714
-01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,6h 40m,801
-01.06.2021,"Turkish Airlines, Buta air",TLV,BAK,1 stop,7h 15m,796
-01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,8h 25m,801
-01.06.2021,"Turkish Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,7h 15m,848
-01.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 45m,910
-01.06.2021,"Pegasus Airlines, Turkish Airlines",TLV,BAK,1 stop,10h 40m,923
-01.06.2021,Turkish Airlines,TLV,BAK,1 stop,15h 00m,952
-01.06.2021,Turkish Airlines,TLV,BAK,1 stop,20h 35m,953
-01.06.2021,Turkish Airlines,TLV,BAK,1 stop,20h 15m,988
-01.06.2021,"Pegasus Airlines, Turkish Airlines",TLV,BAK,1 stop,15h 45m,"1,004"
-01.06.2021,Emirates,TLV,BAK,1 stop,8h 20m,"1,014"
-01.06.2021,Emirates,TLV,BAK,1 stop,11h 10m,"1,017"
-01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,7h 15m,"1,032"
+01.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,7h 25m,702
+01.06.2021,Ukraine International Airlines,TLV,BAK,1 stop,7h 25m,619
+01.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,7h 25m,944
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,6h 40m,"1,038"
+01.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,6h 40m,944
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,6h 40m,"1,038"
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,6h 40m,"1,310"
+01.06.2021,"Georgian Airways, Azerbaijan Airlines",TLV,BAK,1 stop,8h 25m,"1,118"
+01.06.2021,"Georgian Airways, Buta air",TLV,BAK,1 stop,8h 25m,"1,132"
+01.06.2021,Emirates,TLV,BAK,1 stop,8h 25m,"1,315"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,8h 25m,912
+01.06.2021,Emirates,TLV,BAK,1 stop,7h 00m,"1,315"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,7h 00m,974
+01.06.2021,Emirates,TLV,BAK,1 stop,12h 10m,"1,302"
+01.06.2021,"Pegasus Airlines, Buta air",TLV,BAK,1 stop,12h 10m,730
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,12h 10m,850
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,12h 10m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,11h 00m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,11h 00m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,18h 20m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,18h 20m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,13h 50m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,13h 50m,"1,188"
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,20h 35m,"1,234"
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,1 stop,20h 35m,"1,234"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,20h 35m,"1,308"
+01.06.2021,"TAROM, Azerbaijan Airlines",TLV,BAK,1 stop,20h 35m,"1,374"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,18h 05m,"1,419"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,18h 05m,"1,436"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,18h 05m,"1,436"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,18h 05m,"1,436"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,14h 25m,"1,436"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,14h 25m,"1,436"
+01.06.2021,"Ukraine International Airlines, Azerbaijan Airlines",TLV,BAK,2 stops,14h 25m,"1,539"
+01.06.2021,"Ukraine International Airlines, Belavia",TLV,BAK,2 stops,14h 25m,"1,552"
+01.06.2021,"Pegasus Airlines, Azerbaijan Airlines",TLV,BAK,2 stops,17h 30m,"1,673"
+01.06.2021,flydubai,TLV,BAK,2 stops,17h 30m,"1,797"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,17h 30m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,17h 30m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,19h 35m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,19h 35m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,19h 35m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,19h 35m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,19h 35m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,2 stops,19h 35m,"1,188"
+01.06.2021,Turkish Airlines,TLV,BAK,1 stop,11h 55m,"1,308"
