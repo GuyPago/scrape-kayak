@@ -1,9 +1,44 @@
-30.06.2021,Turkish Airlines,TLV,BUD,1 stop,8h 15m,824
-30.06.2021,LOT,TLV,BUD,1 stop,8h 15m,916
-30.06.2021,British Airways,TLV,BUD,1 stop,6h 35m,"1,100"
-30.06.2021,Emirates,TLV,BUD,1 stop,6h 35m,"1,182"
-30.06.2021,Brussels Airlines,TLV,BUD,1 stop,9h 45m,"1,525"
-30.06.2021,Lufthansa,TLV,BUD,1 stop,9h 45m,"2,230"
-30.06.2021,Austrian Airlines,TLV,BUD,1 stop,13h 45m,"2,206"
-30.06.2021,SWISS,TLV,BUD,1 stop,13h 45m,"2,211"
-30.06.2021,Ethiopian Air,TLV,BUD,1 stop,7h 05m,"2,164"
+30.06.2021,Ryanair,TLV,BUD,nonstop,3h 30m,104
+30.06.2021,Wizz Air,TLV,BUD,nonstop,3h 30m,230
+30.06.2021,KLM,TLV,BUD,nonstop,3h 25m,473
+30.06.2021,TAROM,TLV,BUD,nonstop,3h 25m,491
+30.06.2021,Pegasus Airlines,TLV,BUD,1 stop,9h 35m,501
+30.06.2021,Pegasus Airlines,TLV,BUD,1 stop,9h 35m,501
+30.06.2021,Air France,TLV,BUD,1 stop,14h 15m,600
+30.06.2021,KLM,TLV,BUD,1 stop,14h 15m,644
+30.06.2021,"Turkish Airlines, Pegasus Airlines",TLV,BUD,1 stop,6h 45m,649
+30.06.2021,"Wizz Air, LOT",TLV,BUD,1 stop,6h 45m,732
+30.06.2021,Turkish Airlines,TLV,BUD,1 stop,8h 30m,745
+30.06.2021,Turkish Airlines,TLV,BUD,1 stop,8h 30m,751
+30.06.2021,Turkish Airlines,TLV,BUD,1 stop,8h 20m,751
+30.06.2021,Turkish Airlines,TLV,BUD,1 stop,8h 20m,751
+30.06.2021,"LOT, Ryanair",TLV,BUD,1 stop,12h 35m,791
+30.06.2021,Turkish Airlines,TLV,BUD,1 stop,12h 35m,820
+30.06.2021,LOT,TLV,BUD,1 stop,7h 20m,833
+30.06.2021,LOT,TLV,BUD,1 stop,7h 20m,839
+30.06.2021,LOT,TLV,BUD,2 stops,13h 00m,839
+30.06.2021,LOT,TLV,BUD,2 stops,13h 00m,839
+30.06.2021,Turkish Airlines,TLV,BUD,1 stop,8h 15m,908
+30.06.2021,British Airways,TLV,BUD,1 stop,8h 15m,"1,005"
+30.06.2021,Emirates,TLV,BUD,1 stop,9h 50m,"1,086"
+30.06.2021,KLM,TLV,BUD,1 stop,9h 50m,"1,382"
+30.06.2021,Brussels Airlines,TLV,BUD,1 stop,11h 20m,"1,387"
+30.06.2021,Austrian Airlines,TLV,BUD,1 stop,11h 20m,"2,155"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,13h 05m,"2,155"
+30.06.2021,Brussels Airlines,TLV,BUD,1 stop,13h 05m,"2,233"
+30.06.2021,Brussels Airlines,TLV,BUD,2 stops,13h 05m,"2,257"
+30.06.2021,Austrian Airlines,TLV,BUD,2 stops,13h 05m,"2,264"
+30.06.2021,KLM,TLV,BUD,1 stop,13h 55m,"2,305"
+30.06.2021,Brussels Airlines,TLV,BUD,1 stop,13h 55m,"2,396"
+30.06.2021,"KLM, Air France",TLV,BUD,1 stop,6h 35m,"2,457"
+30.06.2021,SWISS,TLV,BUD,1 stop,6h 35m,"1,427"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,7h 35m,"1,439"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,7h 35m,"1,596"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,8h 45m,"1,613"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,8h 45m,"1,636"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,13h 00m,"1,700"
+30.06.2021,Lufthansa,TLV,BUD,1 stop,13h 00m,"1,795"
+30.06.2021,Lufthansa,TLV,BUD,2 stops,9h 00m,"1,867"
+30.06.2021,"Royal Jordanian, Turkish Airlines",TLV,BUD,2 stops,9h 00m,"2,090"
+30.06.2021,Ethiopian Air,TLV,BUD,1 stop,9h 45m,"2,155"
+30.06.2021,"Turkish Airlines, Lufthansa",TLV,BUD,1 stop,9h 45m,"2,209"
